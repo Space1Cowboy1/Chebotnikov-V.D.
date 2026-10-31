@@ -26,5 +26,4 @@ Risk assessment · Security governance · Compliance with security standards · 
 
 Open to freelance work in security documentation, compliance writing, and technical writing.
 
-- Email: your.email@example.com
-- X: [@yourhandle](https://x.com/yourhandle)
+- Email: cebotnikovvaceslav18@gmail.com
